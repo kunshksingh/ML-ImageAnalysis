@@ -9,7 +9,9 @@ My main PDF submission is in the root and is known as "bca2nk_A3_report.pdf". ps
 Table of Contents
 ---
 Problem 1: 2-7
+
 Problem 2: 8-9
+
 Problem 3: TBD
 
 Image Submissions
