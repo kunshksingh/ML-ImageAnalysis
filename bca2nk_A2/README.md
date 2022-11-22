@@ -13,8 +13,11 @@ However, if you are interested in my thought process for Problem 1 and Problem 2
 Table of Contents
 ---
 Problem 1: 2-6
+
 Problem 2: 6-10
+
 Problem 3: 10-15
+
 Problem 4: 15-17
 
 Image Submissions
